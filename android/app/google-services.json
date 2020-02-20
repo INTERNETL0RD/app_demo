@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "667815304874",
+    "firebase_url": "https://prototipo-agifreu.firebaseio.com",
+    "project_id": "prototipo-agifreu",
+    "storage_bucket": "prototipo-agifreu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667815304874:android:47997dc3d1844ed79fbad3",
+        "android_client_info": {
+          "package_name": "es.dinobyte.prototipo_agifreu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667815304874-bh1rf3cim4o7gogpgmkedi4i2gmrt4qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApScVFV6wNEE2vYu4jzv2WgwARc-apR5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667815304874-bh1rf3cim4o7gogpgmkedi4i2gmrt4qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

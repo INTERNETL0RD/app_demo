@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>667815304874-ve4pp64tvkd6ev0ivoil32si590vktvk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.667815304874-ve4pp64tvkd6ev0ivoil32si590vktvk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC54WGakZYyLkgOcHIT1jBdb5v0zcTCsjQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667815304874</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>es.dinobyte.prototipoAgifreu</string>
+	<key>PROJECT_ID</key>
+	<string>prototipo-agifreu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prototipo-agifreu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667815304874:ios:d9bf1396fec776279fbad3</string>
+	<key>DATABASE_URL</key>
+	<string>https://prototipo-agifreu.firebaseio.com</string>
+</dict>
+</plist>
